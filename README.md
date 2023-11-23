@@ -16,7 +16,6 @@ Welcome to the HR Analysis project, a comprehensive exploration of Human Resourc
 8. [How to Use](#how-to-use)
 9. [Dependencies](#dependencies)
 10. [Contributing](#contributing)
-11. [License](#license)
 
 ## Introduction
 
